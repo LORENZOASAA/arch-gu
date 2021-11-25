@@ -1,0 +1,6 @@
+2 parte
+creare una partizone 
+swap
+root
+efi
+fon new , type , write , close
