@@ -1,2 +1,3 @@
 fdisk -l
-chdisk /dev/sda
+cfdisk /dev/sda
+
